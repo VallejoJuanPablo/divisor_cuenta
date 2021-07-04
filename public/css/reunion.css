@@ -1,0 +1,13 @@
+.btn-verde{
+    color: white;
+    background-color: #8ebb56;
+}
+
+.btn-verde h2
+{
+   vertical-align: middle ;
+}
+.btn-verde:hover{
+    cursor: pointer;
+    background-color:#8ebb56;
+}
